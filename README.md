@@ -1,6 +1,6 @@
 <!--GREETINGSTITLE / WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=38BDAE&center=true&width=440&height=60&lines=%F0%9F%86%89%F0%9F%85%B3%F0%9F%85%B0%F0%9F%86%81%F0%9F%85%BE%F0%9F%86%85%F0%9F%85%B0">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&duration=3000&pause=1000&color=38BDAE&center=true&width=440&height=60&lines=%F0%9F%85%BF%F0%9F%86%81%F0%9F%85%B8%F0%9F%86%85%F0%9F%85%B4%F0%9F%86%83">
 <!--GREETINGS AND STACK-->
 <p align="center">
 <div align="center">
