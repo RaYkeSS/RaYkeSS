@@ -12,22 +12,22 @@
 <div align="center">
   <code>hi, i am <i>aleksey</i>. and i am <strong>frontend</strong> developer. </code>
   <br>
-  <code>i have some <strong>skills</strong> or something like that.</code>
+  <!-- <code>i have some <strong>skills</strong> or something like that.</code> -->
 </div>
 
 <br>
 <div align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <!-- <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> -->
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white" /> -->
+  <!-- <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" /> -->
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />  
+  <!-- <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />   -->
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Redux-%23764abc?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Redux-%23764abc?style=for-the-badge&logo=redux&logoColor=white" /> -->
+  <!-- <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white" /> -->
 </div>
 
 <br>
@@ -49,10 +49,11 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Ubuntu-%23e95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Windows-%230078d6?style=for-the-badge&logo=windows11&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&style=for-the-badge&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Ubuntu-%23e95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> -->
+  <!-- <img src="https://custom-icon-badges.demolab.com/badge/Windows-%230078d6?style=for-the-badge&logo=windows11&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/MacOS-%23000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/VSCode-%230078d7?style=for-the-badge&logo=vsc&logoColor=white" />
+  <!-- <img src="https://custom-icon-badges.demolab.com/badge/VSCode-%230078d7?style=for-the-badge&logo=vsc&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/WebStorm-%23000?style=for-the-badge&logo=webstorm&logoColor=white" />
 </div>
 
