@@ -81,7 +81,7 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <code>here is the last funny picture.</code>
   <br>
   <code>be healthy and live richly.</code>
@@ -90,9 +90,9 @@
 <br>
 <!--ADD-->
 <!--ADD-->
-<div align="center">
-  <img src="https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif" />
-</div>
+<!-- <div align="center"> -->
+ <!-- <img src="https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif" /> -->
+<!-- </div> --> 
 
 <br>
 <hr>
